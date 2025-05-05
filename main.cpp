@@ -3,7 +3,9 @@ using namespace std;
 
 int main() {
 
+
 	cout << "Hello hehe" << endl;
+	cout << "Hello haha" << endl;
 	cout << "i am awesome" << endl;
 	cout << "blah blah" << endl;
 	int age;
